@@ -6,6 +6,9 @@ used to print the targets are available in folder `patterns`.
 For additional details please consult our [paper](https://research.fb.com/publications/deltille-grids-for-geometric-camera-calibration)
  or contact the authors.
 
+## Deltille detector
+The code of the deltille and checkerboard detector can be found in the related [repository](https://github.com/facebookincubator/deltille).
+
 ## License
 The dataset is licensed under the Creative Commons Attribution 4.0 license. For more information, please see LICENSE file.
 
